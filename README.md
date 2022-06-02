@@ -1,12 +1,10 @@
 **opBitcoin**
 ----------------------------------------------
-
 opBitcoin is a Mineable Token for Ethereum, built as an example of how you can fairly launch a token to a community.
 
 <br>
 
-***This is hightly eperiemental code!!***
-
+***Warning, this is highly eperiemental code!!***
 
 <br>
 
@@ -22,6 +20,13 @@ opBitcoin is a Mineable Token for Ethereum, built as an example of how you can f
 
 
 <br>
+
+*Socials Links:*
+
+https://discord.com/invite/Qvvg4BEnR8
+
+https://twitter.com/bitcoin_op
+
 
 
 --------------------------------
