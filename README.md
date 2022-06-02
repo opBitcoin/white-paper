@@ -28,7 +28,7 @@ opBitcoin is a Mineable Token for Ethereum, built as an example of how you can f
 
 **STRONG ROOTS NEW CODE**
 
-opBitcoin is based on the 0xBitcoin contract but heavily updated to match todays erc20 standards. This is hightly eperiemental code!!
+opBitcoin is based on the 0xBitcoin contract but heavily updated to match todays erc20 standards.
 
 https://0xbitcoin.org/#/
 
